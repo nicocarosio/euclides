@@ -1,0 +1,24 @@
+h1{
+font-size: 10vmin;
+}
+
+h2{
+    font-size: 5vmin;
+    }
+
+h3{
+    font-size: 4vmin;
+    }
+
+
+p{
+    font-size: 3vmin;
+}
+li{
+    font-size: 3vmin;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
